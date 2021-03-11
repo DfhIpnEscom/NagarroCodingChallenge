@@ -1,0 +1,7 @@
+C:\Users\DANIADMIN\Documents\NagarroCodingChallenge\NagarroCodingChallenge\bin\Debug\NagarroCodingChallenge.exe.config
+C:\Users\DANIADMIN\Documents\NagarroCodingChallenge\NagarroCodingChallenge\bin\Debug\NagarroCodingChallenge.exe
+C:\Users\DANIADMIN\Documents\NagarroCodingChallenge\NagarroCodingChallenge\bin\Debug\NagarroCodingChallenge.pdb
+C:\Users\DANIADMIN\Documents\NagarroCodingChallenge\NagarroCodingChallenge\obj\Debug\NagarroCodingChallenge.csprojAssemblyReference.cache
+C:\Users\DANIADMIN\Documents\NagarroCodingChallenge\NagarroCodingChallenge\obj\Debug\NagarroCodingChallenge.csproj.CoreCompileInputs.cache
+C:\Users\DANIADMIN\Documents\NagarroCodingChallenge\NagarroCodingChallenge\obj\Debug\NagarroCodingChallenge.exe
+C:\Users\DANIADMIN\Documents\NagarroCodingChallenge\NagarroCodingChallenge\obj\Debug\NagarroCodingChallenge.pdb
